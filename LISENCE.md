@@ -1,0 +1,2 @@
+Do not use the source code for the converter without getting permision from me,the developer.
+Please contact before using, When it renders the index.html file it will have a small watermark at the bottom,DO NOT DELETE.without it,your website will be up illiagaly, 
